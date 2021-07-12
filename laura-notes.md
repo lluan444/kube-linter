@@ -1,7 +1,7 @@
 
 ## Laura's Notes on Add a New Template and Its Checks##
 
-The base approach is to pick an merged and use it as an example to learn how to develop a template and the checks. See the following two PR examples.
+The base approach is to pick a merged PR and use it as an example to learn how to develop a template and the checks. See the following two PR examples.
 
 https://github.com/stackrox/kube-linter/pull/191
 
