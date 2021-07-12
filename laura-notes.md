@@ -1,5 +1,5 @@
 
-## Laura's Notes on Add a New Template and Its Checks##
+## Laura's Notes on Add a New Template and Its Checks ##
 
 The base approach is to pick a merged PR and use it as an example to learn how to develop a template and the checks. See the following two PR examples.
 
