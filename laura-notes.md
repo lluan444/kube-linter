@@ -29,7 +29,7 @@ https://github.com/stackrox/kube-linter/pull/188
   
 12. run lint before submitting a PR: `% make lint`
 
-13. write go tests under templates/<your-template/ if your template is complex (see examples of the existing templates)
+13. write go tests in `template_test.go`  under `templates/<your-template>/ if your template is complex (see examples of the existing templates)
 14. to run tests: `% go test ./pkg/templates/hostmounts/...` (test a specific package), or `% make test` (test all)
 
 15. add your checks to default list /internal/defaultchecks/default_checks.go if suggested by PR reviewr
